@@ -80,9 +80,7 @@ We welcome contributions! If you're interested in improving this project, feel f
 ## Contact Information
 For any queries or collaborations, please reach out to:
 - Email: 
-  - geecypher41@gmail.com
-  - secdad1@gmail.com
-  - chideraonwuatu433@gmail.com
+  - sunstar962090@gmail.com
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
